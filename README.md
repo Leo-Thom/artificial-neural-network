@@ -5,4 +5,4 @@ Das Grundgerüst des Codes stammt aus dem Buch "Neuronale Netze selbst programmi
 
 Der Code dient zur Klassifizierung der handschriftlichen MNIST-Ziffern, die von der Website http://pjreddie.com/projects/mnist-in-csv/ im CSV-Format heruntergeladen werden können.
 
-Es sind drei Dateien zum Kreieren von neuronalen Netzen vorhanden. Jede von ihnen erstellt ein neuronales Netz mit 0, 1 beziehungsweise 2 versteckten Schichten. Die übrige Datei trainiert und testet das erzeugte neuronale Netz.
+Es sind drei Dateien zum Erzeugen von neuronalen Netzen vorhanden. Jede von ihnen erstellt ein neuronales Netz mit 0, 1 beziehungsweise 2 versteckten Schichten. Die übrige Datei trainiert und testet das erzeugte neuronale Netz.
